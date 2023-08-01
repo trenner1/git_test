@@ -1,1 +1,1 @@
-this is some smaple text to show how the add, commit and push sequence works
+this is some sample text to show how the add, commit and push sequence works
